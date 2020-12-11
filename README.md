@@ -8,14 +8,17 @@ Treemap chart have always seemed interesting to me. I browsed a little, found th
 ## Usage
 
 ### Include in html:
- * <script type="text/javascript" src="treemap.min.js"></script> <!-- optional -->
+```html
+ <script type="text/javascript" src="treemap.min.js"></script> <!-- optional -->
+```
 
 ### Simple call:
+```html
 <body>
   <div id="treemapDiv"></div>
   <script>
     treeMap.create("treemapDiv", 600, 400, [6, 2, 1, 3, 6, 2, 4])
   </script>
 </body>
-
+```
 For more about usage have look at file example.html.
