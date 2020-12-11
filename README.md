@@ -22,3 +22,35 @@ Treemap chart have always seemed interesting to me. I browsed a little, found th
 </body>
 ```
 For more about usage have look at file <a href="https://github.com/ivanuci/Treemap-chart/blob/readme-edit/example.html">example.html</a>.
+
+## Config
+```html
+treeMap.config = {
+    data: {
+        value: null,
+        text: null,
+        fill: null
+    },
+    rectangle: {
+        svg: {
+            'fill': '#779ecb',
+            'stroke': 'white',
+            'stroke-width': 0.5,
+            'vector-effect': 'non-scaling-stroke'
+        },
+    },
+    gradient: gradient,
+    text: {
+        size: 12,   // percent of rectangle (square) side
+        margin: 5,  // percent of rectangle side
+        svg: {
+            'alignment-baseline': 'middle',
+            'text-anchor': 'left',
+            'fill': 'white',
+            'user-select': 'none',
+            'pointer-events': 'none'
+        }
+    },
+    tooltip: null
+}
+```
