@@ -21,4 +21,4 @@ Treemap chart have always seemed interesting to me. I browsed a little, found th
   </script>
 </body>
 ```
-For more about usage have look at file example.html.
+For more about usage have look at file <a href="https://github.com/ivanuci/Treemap-chart/blob/readme-edit/example.html">example.html</a>.
