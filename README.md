@@ -21,7 +21,7 @@ Treemap chart have always seemed interesting to me. I browsed a little, found th
   </script>
 </body>
 ```
-For more about usage have look at file <a href="https://github.com/ivanuci/Treemap-chart/blob/readme-edit/example.html">example.html</a>.
+For more about usage have look at file <a href="https://github.com/ivanuci/Treemap-chart/blob/main/example.html">example.html</a>.
 
 ## Config
 Possible definitions with treeMap.config...
