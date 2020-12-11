@@ -9,7 +9,7 @@ Treemap chart have always seemed interesting to me. I browsed a little, found th
 
 ### Include in html:
 ```html
- <script type="text/javascript" src="treemap.min.js"></script> <!-- optional -->
+ <script type="text/javascript" src="treemap.min.js"></script>
 ```
 
 ### Simple call:
