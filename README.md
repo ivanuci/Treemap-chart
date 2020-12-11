@@ -39,10 +39,10 @@ treeMap.config = {
             'vector-effect': 'non-scaling-stroke'
         },
     },
-    gradient: gradient,
+    gradient: gradient,   // gradient.set(["blue", "green", "red"])
     text: {
-        size: 12,   // percent of rectangle (square) side
-        margin: 5,  // percent of rectangle side
+        size: 12,         // percent of rectangle (square) side
+        margin: 5,        // percent of rectangle side
         svg: {
             'alignment-baseline': 'middle',
             'text-anchor': 'left',
